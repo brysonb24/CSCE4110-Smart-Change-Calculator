@@ -45,7 +45,7 @@ Group Project/
 │   ├── benchmark.cpp
 │   └── benchmarks.csv
 ├── report/
-│   └── CSCE4110_Final_Report_Bryson_Brown.pdf
+│   └── Final_Report_Bryson_Brown.pdf
 └── README.md
 ```
 
