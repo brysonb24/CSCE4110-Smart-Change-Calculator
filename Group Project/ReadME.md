@@ -154,7 +154,18 @@ The project report is available in the `report` directory.
 
 ## Demonstration Video
 
-Video link: To be added after recording and publication.
+**Presenter:** Bryson Brown  
+**Course:** CSCE 4110 — Algorithms
+
+**[Watch the Smart Change Calculator Demonstration](https://youtu.be/vZXbvBAUvtc)**
+
+This demonstration covers:
+- Project overview and objectives
+- Greedy Algorithm implementation
+- Dynamic Programming implementation
+- Live execution of the Smart Change Calculator
+- Benchmark testing and performance comparisons
+- Project conclusions
 
 ## Conclusion
 
